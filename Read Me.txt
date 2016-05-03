@@ -1,0 +1,6 @@
+Petunjuk Penggunaan
+1. pasang perangkat Oculus
+2. pastikan sudah install Oculus runtime SDK
+3. klik rv_haji_DirectToRift.exe
+
+Informasi lebih lanjut: did.purwanto@gmail.com
